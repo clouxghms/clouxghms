@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clouxghms
 - 👀 I’m interested in telco industry
-- 🌱 I’m currently learning Azure and 5G
-- 💞️ I’m looking to collaborate on Telco
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Azure Infrastructure, Telco and Healthcare
 - 📫 How to reach me ...
 
 <!---
